@@ -1,7 +1,7 @@
 {
-  "name": "bearname/nowpayments-api-php",
+  "name": "winkcler/nowpayments-api-php",
   "description": "Nowpayments php api",
-  "homepage": "https://github.com/bearname/nowpayments-api-php",
+  "homepage": "https://github.com/winkcler/nowpayments-api-php",
   "keywords": [
     "template",
     "composer",
